@@ -10,7 +10,7 @@ layout : default
                 <h3 class="panel-title">{{post.title}}</h3>
             </div>
             <div class="panel-body">
-                <a href="{{post.url}}">내용 보기</a>
+                <a href="{{post.url}}" style="text-align:center;">내용 보기</a>
             </div>
         </div>
     </div>
